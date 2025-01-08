@@ -13,6 +13,14 @@
     "text-analysis",
     "text-extraction"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "textcompare",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamsomwanshi11/text-parser"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamsomwanshi11/text-parser/issues"
+  },
+  "homepage": "https://github.com/shubhamsomwanshi11/text-parser#readme"
 }
